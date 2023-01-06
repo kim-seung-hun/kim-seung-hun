@@ -17,4 +17,10 @@ Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat-square&logo=node.js)
   
 Database:&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat-square&logo=mysql&logoColor=00d8fd)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat-square&logo=mysql&logoColor=00d8fd)\
+<br/>
+
+
+### 💻 &nbsp;GitHub Analytics
+
+![github stats](https://github-readme-stats.vercel.app/api?username=kim-seung-hun&show_icons=true&theme=tokyonight)
