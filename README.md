@@ -8,12 +8,14 @@
 
 <h4>:hammer_and_pick:&nbsp;&nbsp;Tech Stack:</h4>
 
-frontend:&nbsp;
+Frontend:&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavasScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+  ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=whitee)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 
-<img src="https://img.shields.io/badge/JavasScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/nodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-3766AB?style=flat-square&logo=mysql&logoColor=white"/>
+Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat-square&logo=node.js)
+  
+Database:&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat-square&logo=mysql&logoColor=00d8fd)
