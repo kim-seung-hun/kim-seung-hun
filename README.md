@@ -1,6 +1,5 @@
 <h1>👋 프론드엔드 개발자, 김승훈 입니다</h1>
 <br/>
-<br/>
 
 <h4>:point_down:&nbsp;&nbsp;About Me:</h4>
 
