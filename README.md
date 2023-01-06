@@ -21,7 +21,7 @@ Database:&nbsp;
 <br/>
 
 
-### 💻 &nbsp;GitHub Analytics
+<h4>💻 GitHub Analytics</h4>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kim-seung-hun&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-seung-hun&layout=compact&theme=tokyonight)
