@@ -11,7 +11,6 @@
 <h4>:hammer_and_pick:&nbsp;&nbsp;Tech Stack:</h4>
 
 Frontend:&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavasScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
   ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=whitee)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
