@@ -22,10 +22,6 @@ Database:&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat-square&logo=mysql&logoColor=00d8fd)\
 <br/>
 
-<h4>💻&nbsp;&nbsp;GitHub Analytics</h4>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-seung-hun&layout=compact&theme=tokyonight)](https://github.com/kim-seung-hun/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-seung-hun&show_icons=true&theme=tokyonight)](https://github.com/kim-seung-hun/github-readme-stats)
-
 <h4>✉️&nbsp;&nbsp;Contact Me</h4>
 
 Email : rlatmdgns16@naver.com
