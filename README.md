@@ -23,9 +23,8 @@ Database:&nbsp;
 <br/>
 
 <h4>💻&nbsp;&nbsp;GitHub Analytics</h4>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-seung-hun&layout=compact&theme=tokyonight)]
-[![github stats](https://github-readme-stats.vercel.app/api?username=kim-seung-hun&show_icons=true&theme=tokyonight)]
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-seung-hun&layout=compact&theme=tokyonight)](https://github.com/kim-seung-hun/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-seung-hun&show_icons=true&theme=tokyonight)](https://github.com/kim-seung-hun/github-readme-stats)
 
 <h4>✉️&nbsp;&nbsp;Contact Me</h4>
 
