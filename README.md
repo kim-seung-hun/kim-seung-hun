@@ -12,8 +12,8 @@
 
 Frontend:&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-  ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=whitee)
-  ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=whitee)
+  ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
   ![Jest](https://img.shields.io/badge/jest-red?style=flat-square&logo=jest&logoColor=white)
   
