@@ -1,7 +1,6 @@
 <h1>👋 프론드엔드 개발자, 김승훈 입니다</h1>
 
 <br/>
-<br/>
 
 <h4>:hammer_and_pick:&nbsp;&nbsp;Tech Stack:</h4>
 
